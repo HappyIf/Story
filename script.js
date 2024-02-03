@@ -24,7 +24,7 @@ var options = {
     "So it's all done ... Now I can tell u everything directly 🫠",
 
 
-    "I actually don't how I got a crush on you 😌"
+    "I actually don't how I got a crush on you 😌 just one request please call me With that name again🥺🥺.. I want to call u SS like before"
   ],
   typeSpeed: 75,  // Typing speed in milliseconds
   backSpeed: 30,  // Backspacing speed in milliseconds
